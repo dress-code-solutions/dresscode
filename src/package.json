@@ -1,0 +1,24 @@
+{
+  "name": "dcms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dress-code-solutions/dresscode"
+  },
+  "author": "Matt Trudeau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dress-code-solutions/dresscode/issues"
+  },
+  "homepage": "https://github.com/dress-code-solutions/dresscode",
+  "dependencies": {
+    "express": "^4.15.3",
+    "nodemon": "^1.11.0"
+  }
+}
